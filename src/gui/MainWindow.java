@@ -16,6 +16,9 @@ public class MainWindow extends JPanel{
 	
 	// construct the window
 	public MainWindow(){
+		
+		//TODO Instantiate the Main GUI Panel
+		
 		findDriveNames();
 	}
 	
